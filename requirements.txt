@@ -1,0 +1,12 @@
+openai
+pydantic
+sentence-transformers
+neo4j
+streamlit
+pyvis
+networkx
+numpy
+requests
+pandas
+tqdm
+scikit-learn
